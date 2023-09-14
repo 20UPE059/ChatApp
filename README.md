@@ -43,6 +43,6 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 
 ## Made By
-Chanddrajeet Maurya
+Himanshu Mehra
 
   
